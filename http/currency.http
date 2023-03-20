@@ -1,0 +1,3 @@
+#GET http://localhost:8080/api/v1/currency/exchange?from=BOB&to=EUR&amount=300
+
+GET http://localhost:8080/api/v1/currency/list?page=0&size=10
